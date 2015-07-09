@@ -1,0 +1,6 @@
+name = Custom Feeds XML Parser
+description = This module is example of how to create a custom feed xml parser.
+package = Custom modules
+core = "7.x"
+
+dependencies[] = feeds
